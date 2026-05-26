@@ -1,0 +1,954 @@
+month,port,destination_country,volume_tons,freight_rate_usd_per_ton,vessel_type,incoterm
+2024-01-01,Santos,Spain,19418,36.27,Kamsarmax,CIF
+2024-01-01,Santos,Thailand,43104,31.82,Handymax,CIF
+2024-01-01,Santos,Vietnam,22365,42.57,Panamax,CIF
+2024-01-01,Santos,Turkey,6950,30.98,Panamax,FOB
+2024-01-01,Santos,Egypt,19018,25.68,Kamsarmax,CIF
+2024-01-01,Santos,Mexico,39240,40.59,Handymax,CIF
+2024-01-01,Paranagua,China,68625,45.17,Handymax,FOB
+2024-01-01,Paranagua,Netherlands,49614,32.1,Kamsarmax,CIF
+2024-01-01,Paranagua,Spain,32657,35.93,Supramax,CIF
+2024-01-01,Paranagua,Thailand,46437,31.97,Handymax,CIF
+2024-01-01,Paranagua,Vietnam,13867,35.1,Handymax,FOB
+2024-01-01,Paranagua,Turkey,13280,29.93,Handymax,FOB
+2024-01-01,Paranagua,Egypt,41975,36.69,Handymax,CFR
+2024-01-01,Paranagua,Mexico,18172,43.64,Supramax,CIF
+2024-01-01,Rio Grande,China,61349,36.7,Supramax,FOB
+2024-01-01,Rio Grande,Netherlands,31261,37.26,Kamsarmax,FOB
+2024-01-01,Rio Grande,Vietnam,8016,42.44,Kamsarmax,FOB
+2024-01-01,Rio Grande,Turkey,16723,29.42,Kamsarmax,FOB
+2024-01-01,Rio Grande,Egypt,19781,25.72,Supramax,CFR
+2024-01-01,Itaqui,China,29677,38.39,Panamax,CIF
+2024-01-01,Itaqui,Spain,15337,33.55,Handymax,CFR
+2024-01-01,Itaqui,Thailand,21757,38.59,Kamsarmax,CFR
+2024-01-01,Itaqui,Egypt,18497,34.58,Kamsarmax,CFR
+2024-01-01,Itaqui,Mexico,4033,34.2,Supramax,CFR
+2024-01-01,Sao Francisco do Sul,China,41561,44.02,Panamax,CFR
+2024-01-01,Sao Francisco do Sul,Netherlands,13495,29.41,Kamsarmax,FOB
+2024-01-01,Sao Francisco do Sul,Spain,8611,31.68,Panamax,FOB
+2024-01-01,Sao Francisco do Sul,Thailand,10611,34.09,Handymax,CIF
+2024-01-01,Sao Francisco do Sul,Vietnam,10281,36.49,Kamsarmax,FOB
+2024-01-01,Sao Francisco do Sul,Turkey,16833,36.76,Supramax,CIF
+2024-01-01,Sao Francisco do Sul,Egypt,18648,32.67,Panamax,CFR
+2024-01-01,Sao Francisco do Sul,Mexico,16206,41.84,Handymax,CFR
+2024-01-01,Barcarena,China,55742,47.1,Supramax,CFR
+2024-01-01,Barcarena,Netherlands,9880,30.07,Handymax,FOB
+2024-01-01,Barcarena,Spain,17776,36.85,Panamax,CFR
+2024-01-01,Barcarena,Thailand,14173,35.0,Kamsarmax,CFR
+2024-01-01,Barcarena,Turkey,12551,30.94,Kamsarmax,CIF
+2024-01-01,Barcarena,Egypt,15897,31.07,Handymax,CFR
+2024-01-01,Barcarena,Mexico,7180,35.68,Kamsarmax,CIF
+2024-02-01,Santos,Netherlands,82714,27.18,Handymax,FOB
+2024-02-01,Santos,Spain,13241,36.57,Handymax,CIF
+2024-02-01,Santos,Thailand,11580,35.09,Panamax,CFR
+2024-02-01,Santos,Vietnam,45337,30.15,Panamax,CFR
+2024-02-01,Santos,Turkey,18825,31.93,Supramax,CFR
+2024-02-01,Santos,Egypt,42601,31.96,Panamax,CFR
+2024-02-01,Santos,Mexico,32151,37.02,Panamax,CIF
+2024-02-01,Paranagua,China,135533,41.98,Panamax,CIF
+2024-02-01,Paranagua,Netherlands,55889,27.33,Supramax,FOB
+2024-02-01,Paranagua,Spain,35969,28.45,Supramax,FOB
+2024-02-01,Paranagua,Thailand,9336,38.97,Panamax,FOB
+2024-02-01,Paranagua,Vietnam,32930,42.18,Kamsarmax,CIF
+2024-02-01,Paranagua,Turkey,18752,28.92,Handymax,FOB
+2024-02-01,Paranagua,Egypt,41074,31.2,Kamsarmax,FOB
+2024-02-01,Paranagua,Mexico,32655,32.24,Panamax,CFR
+2024-02-01,Rio Grande,China,55861,46.72,Panamax,FOB
+2024-02-01,Rio Grande,Spain,29409,25.64,Handymax,CFR
+2024-02-01,Rio Grande,Thailand,40645,31.04,Panamax,CIF
+2024-02-01,Rio Grande,Vietnam,13794,32.49,Kamsarmax,FOB
+2024-02-01,Rio Grande,Turkey,25103,36.12,Supramax,FOB
+2024-02-01,Rio Grande,Egypt,9912,31.09,Supramax,CIF
+2024-02-01,Rio Grande,Mexico,6656,36.16,Panamax,FOB
+2024-02-01,Itaqui,China,69314,48.08,Supramax,FOB
+2024-02-01,Itaqui,Netherlands,33721,27.19,Panamax,CFR
+2024-02-01,Itaqui,Spain,25920,28.26,Panamax,FOB
+2024-02-01,Itaqui,Thailand,16001,33.67,Supramax,CIF
+2024-02-01,Itaqui,Vietnam,24880,43.58,Handymax,CFR
+2024-02-01,Itaqui,Turkey,29131,32.89,Handymax,CFR
+2024-02-01,Itaqui,Egypt,6815,31.7,Panamax,CIF
+2024-02-01,Itaqui,Mexico,22947,38.3,Kamsarmax,FOB
+2024-02-01,Sao Francisco do Sul,China,67574,45.11,Panamax,FOB
+2024-02-01,Sao Francisco do Sul,Netherlands,24839,31.38,Supramax,CFR
+2024-02-01,Sao Francisco do Sul,Thailand,15001,34.78,Panamax,FOB
+2024-02-01,Sao Francisco do Sul,Vietnam,8465,42.38,Panamax,CFR
+2024-02-01,Sao Francisco do Sul,Egypt,8760,26.57,Handymax,CIF
+2024-02-01,Sao Francisco do Sul,Mexico,8631,31.26,Handymax,CFR
+2024-02-01,Barcarena,China,54178,38.39,Panamax,FOB
+2024-02-01,Barcarena,Netherlands,38112,35.56,Handymax,CIF
+2024-02-01,Barcarena,Spain,11109,30.57,Supramax,FOB
+2024-02-01,Barcarena,Thailand,14440,30.73,Handymax,CFR
+2024-02-01,Barcarena,Turkey,13267,25.72,Kamsarmax,CFR
+2024-02-01,Barcarena,Egypt,15817,29.28,Handymax,FOB
+2024-02-01,Barcarena,Mexico,13840,43.36,Kamsarmax,FOB
+2024-03-01,Santos,China,167417,47.87,Supramax,FOB
+2024-03-01,Santos,Netherlands,71444,26.2,Supramax,CFR
+2024-03-01,Santos,Spain,87177,37.06,Panamax,FOB
+2024-03-01,Santos,Turkey,57026,28.0,Panamax,FOB
+2024-03-01,Santos,Egypt,67864,34.27,Kamsarmax,CIF
+2024-03-01,Santos,Mexico,50575,32.15,Kamsarmax,CFR
+2024-03-01,Paranagua,China,61333,38.07,Supramax,CIF
+2024-03-01,Paranagua,Netherlands,61066,30.64,Handymax,CFR
+2024-03-01,Paranagua,Spain,38781,35.9,Panamax,FOB
+2024-03-01,Paranagua,Thailand,35922,38.11,Panamax,CFR
+2024-03-01,Paranagua,Vietnam,49024,41.44,Kamsarmax,FOB
+2024-03-01,Paranagua,Turkey,58733,34.6,Handymax,FOB
+2024-03-01,Paranagua,Mexico,20673,34.88,Kamsarmax,CIF
+2024-03-01,Rio Grande,Spain,15540,30.18,Supramax,CIF
+2024-03-01,Rio Grande,Thailand,24984,36.55,Supramax,CIF
+2024-03-01,Rio Grande,Vietnam,53823,43.02,Kamsarmax,CIF
+2024-03-01,Rio Grande,Turkey,39910,27.61,Panamax,CIF
+2024-03-01,Rio Grande,Egypt,16202,34.24,Supramax,CFR
+2024-03-01,Rio Grande,Mexico,15468,38.87,Kamsarmax,CIF
+2024-03-01,Itaqui,China,86122,45.43,Kamsarmax,CIF
+2024-03-01,Itaqui,Netherlands,50787,29.76,Kamsarmax,FOB
+2024-03-01,Itaqui,Thailand,51049,30.2,Kamsarmax,CFR
+2024-03-01,Itaqui,Vietnam,36571,29.73,Panamax,CIF
+2024-03-01,Itaqui,Turkey,31466,28.38,Kamsarmax,CIF
+2024-03-01,Itaqui,Egypt,38795,25.82,Supramax,CIF
+2024-03-01,Itaqui,Mexico,36864,41.59,Handymax,CIF
+2024-03-01,Sao Francisco do Sul,China,90245,40.43,Handymax,CIF
+2024-03-01,Sao Francisco do Sul,Spain,9036,27.01,Panamax,CIF
+2024-03-01,Sao Francisco do Sul,Thailand,37874,36.71,Supramax,FOB
+2024-03-01,Sao Francisco do Sul,Vietnam,33741,40.13,Panamax,CFR
+2024-03-01,Sao Francisco do Sul,Egypt,25087,28.61,Panamax,CFR
+2024-03-01,Barcarena,Spain,50969,30.84,Kamsarmax,CIF
+2024-03-01,Barcarena,Turkey,37124,35.75,Handymax,CFR
+2024-03-01,Barcarena,Egypt,32425,26.92,Kamsarmax,CFR
+2024-03-01,Barcarena,Mexico,9828,41.1,Handymax,CIF
+2024-04-01,Santos,China,225622,40.5,Panamax,CIF
+2024-04-01,Santos,Netherlands,50622,28.4,Kamsarmax,CIF
+2024-04-01,Santos,Spain,91663,27.44,Kamsarmax,CFR
+2024-04-01,Santos,Thailand,120530,36.19,Handymax,CFR
+2024-04-01,Santos,Vietnam,57418,35.19,Kamsarmax,FOB
+2024-04-01,Santos,Turkey,61991,32.41,Supramax,FOB
+2024-04-01,Santos,Egypt,49774,35.22,Kamsarmax,CIF
+2024-04-01,Santos,Mexico,54569,32.04,Supramax,CIF
+2024-04-01,Paranagua,China,90200,43.64,Handymax,CFR
+2024-04-01,Paranagua,Netherlands,60499,29.69,Supramax,FOB
+2024-04-01,Paranagua,Spain,63569,27.41,Handymax,CIF
+2024-04-01,Paranagua,Thailand,47621,37.99,Panamax,CFR
+2024-04-01,Paranagua,Vietnam,51225,29.89,Supramax,CFR
+2024-04-01,Paranagua,Turkey,33749,26.67,Panamax,CFR
+2024-04-01,Paranagua,Egypt,51033,30.82,Panamax,CIF
+2024-04-01,Paranagua,Mexico,46154,35.49,Supramax,FOB
+2024-04-01,Rio Grande,China,91566,36.59,Handymax,CIF
+2024-04-01,Rio Grande,Netherlands,21195,29.28,Kamsarmax,CIF
+2024-04-01,Rio Grande,Spain,25963,29.13,Kamsarmax,CIF
+2024-04-01,Rio Grande,Vietnam,30734,31.95,Kamsarmax,CIF
+2024-04-01,Rio Grande,Egypt,35209,31.61,Kamsarmax,FOB
+2024-04-01,Rio Grande,Mexico,36283,35.74,Panamax,CFR
+2024-04-01,Itaqui,China,106305,50.66,Supramax,FOB
+2024-04-01,Itaqui,Spain,20679,29.17,Kamsarmax,FOB
+2024-04-01,Itaqui,Thailand,49909,35.8,Handymax,FOB
+2024-04-01,Itaqui,Vietnam,12038,34.33,Kamsarmax,CIF
+2024-04-01,Itaqui,Turkey,30114,31.56,Handymax,CFR
+2024-04-01,Itaqui,Egypt,41653,37.32,Handymax,CFR
+2024-04-01,Itaqui,Mexico,13467,38.79,Handymax,CFR
+2024-04-01,Sao Francisco do Sul,China,126038,37.44,Supramax,CIF
+2024-04-01,Sao Francisco do Sul,Netherlands,37711,34.79,Supramax,CIF
+2024-04-01,Sao Francisco do Sul,Spain,39190,28.62,Handymax,CFR
+2024-04-01,Sao Francisco do Sul,Thailand,55324,29.6,Supramax,CFR
+2024-04-01,Sao Francisco do Sul,Vietnam,24431,38.15,Kamsarmax,CIF
+2024-04-01,Sao Francisco do Sul,Turkey,9238,29.6,Panamax,FOB
+2024-04-01,Barcarena,China,130477,47.37,Supramax,FOB
+2024-04-01,Barcarena,Netherlands,35071,35.13,Kamsarmax,FOB
+2024-04-01,Barcarena,Spain,43415,35.11,Handymax,FOB
+2024-04-01,Barcarena,Vietnam,63843,33.87,Panamax,CFR
+2024-04-01,Barcarena,Egypt,49843,31.39,Panamax,FOB
+2024-04-01,Barcarena,Mexico,46676,32.82,Kamsarmax,FOB
+2024-05-01,Santos,China,327157,36.65,Supramax,FOB
+2024-05-01,Santos,Spain,36723,31.67,Kamsarmax,CFR
+2024-05-01,Santos,Thailand,58802,35.17,Supramax,CIF
+2024-05-01,Santos,Vietnam,46054,39.28,Supramax,CIF
+2024-05-01,Santos,Turkey,76960,28.98,Kamsarmax,CFR
+2024-05-01,Paranagua,China,205212,36.23,Kamsarmax,FOB
+2024-05-01,Paranagua,Netherlands,27023,34.82,Panamax,CIF
+2024-05-01,Paranagua,Spain,84955,27.54,Supramax,CFR
+2024-05-01,Paranagua,Thailand,65527,38.53,Supramax,CIF
+2024-05-01,Paranagua,Vietnam,107875,40.55,Handymax,CIF
+2024-05-01,Paranagua,Turkey,95606,27.38,Kamsarmax,CIF
+2024-05-01,Rio Grande,China,64098,41.05,Kamsarmax,CIF
+2024-05-01,Rio Grande,Netherlands,54195,33.49,Supramax,CIF
+2024-05-01,Rio Grande,Thailand,42650,36.92,Kamsarmax,CIF
+2024-05-01,Rio Grande,Vietnam,12223,43.5,Supramax,CIF
+2024-05-01,Rio Grande,Mexico,38602,35.16,Panamax,CIF
+2024-05-01,Itaqui,China,196738,46.08,Kamsarmax,FOB
+2024-05-01,Itaqui,Netherlands,68524,32.66,Panamax,FOB
+2024-05-01,Itaqui,Spain,60175,37.61,Panamax,FOB
+2024-05-01,Itaqui,Thailand,20340,31.88,Panamax,FOB
+2024-05-01,Itaqui,Vietnam,42038,33.01,Supramax,CFR
+2024-05-01,Itaqui,Mexico,40617,39.49,Kamsarmax,CIF
+2024-05-01,Sao Francisco do Sul,China,74164,36.27,Panamax,CIF
+2024-05-01,Sao Francisco do Sul,Netherlands,17768,31.01,Supramax,CIF
+2024-05-01,Sao Francisco do Sul,Thailand,22379,43.49,Handymax,FOB
+2024-05-01,Sao Francisco do Sul,Vietnam,12176,34.89,Handymax,FOB
+2024-05-01,Sao Francisco do Sul,Turkey,25705,26.21,Handymax,FOB
+2024-05-01,Sao Francisco do Sul,Egypt,59320,31.82,Supramax,CFR
+2024-05-01,Sao Francisco do Sul,Mexico,49608,32.53,Kamsarmax,CFR
+2024-05-01,Barcarena,Netherlands,24721,26.67,Kamsarmax,CFR
+2024-05-01,Barcarena,Spain,72365,25.55,Supramax,CFR
+2024-05-01,Barcarena,Thailand,23757,39.58,Supramax,CIF
+2024-05-01,Barcarena,Vietnam,49787,30.43,Kamsarmax,FOB
+2024-05-01,Barcarena,Turkey,39218,26.38,Kamsarmax,CIF
+2024-05-01,Barcarena,Egypt,49690,26.99,Supramax,CIF
+2024-05-01,Barcarena,Mexico,33600,37.6,Handymax,CFR
+2024-06-01,Santos,China,155447,47.51,Kamsarmax,CFR
+2024-06-01,Santos,Spain,58810,28.33,Kamsarmax,CFR
+2024-06-01,Santos,Thailand,128308,33.57,Panamax,CIF
+2024-06-01,Santos,Vietnam,100790,31.52,Kamsarmax,FOB
+2024-06-01,Santos,Turkey,90256,26.93,Handymax,FOB
+2024-06-01,Santos,Egypt,24566,37.36,Handymax,CFR
+2024-06-01,Paranagua,China,203254,38.59,Panamax,CIF
+2024-06-01,Paranagua,Netherlands,111887,33.24,Handymax,FOB
+2024-06-01,Paranagua,Spain,47833,28.02,Supramax,CIF
+2024-06-01,Paranagua,Thailand,54048,32.18,Panamax,CFR
+2024-06-01,Paranagua,Vietnam,49734,40.03,Kamsarmax,FOB
+2024-06-01,Paranagua,Egypt,19712,28.17,Kamsarmax,FOB
+2024-06-01,Paranagua,Mexico,43773,43.26,Panamax,CIF
+2024-06-01,Rio Grande,China,147849,48.81,Handymax,CFR
+2024-06-01,Rio Grande,Netherlands,41742,30.67,Panamax,FOB
+2024-06-01,Rio Grande,Spain,23927,32.27,Panamax,FOB
+2024-06-01,Rio Grande,Vietnam,52980,42.18,Supramax,CFR
+2024-06-01,Rio Grande,Turkey,60668,27.68,Kamsarmax,CFR
+2024-06-01,Rio Grande,Mexico,27257,38.66,Handymax,CIF
+2024-06-01,Itaqui,China,37157,37.35,Handymax,FOB
+2024-06-01,Itaqui,Netherlands,73812,29.31,Kamsarmax,CIF
+2024-06-01,Itaqui,Spain,45874,35.37,Supramax,CIF
+2024-06-01,Itaqui,Thailand,55698,42.33,Handymax,CIF
+2024-06-01,Itaqui,Vietnam,28209,43.29,Kamsarmax,FOB
+2024-06-01,Itaqui,Turkey,48395,27.98,Kamsarmax,FOB
+2024-06-01,Itaqui,Egypt,41340,33.53,Supramax,FOB
+2024-06-01,Itaqui,Mexico,59482,32.42,Handymax,CFR
+2024-06-01,Sao Francisco do Sul,China,69891,34.53,Handymax,CFR
+2024-06-01,Sao Francisco do Sul,Netherlands,11611,30.28,Handymax,CIF
+2024-06-01,Sao Francisco do Sul,Spain,58133,37.3,Kamsarmax,FOB
+2024-06-01,Sao Francisco do Sul,Thailand,31205,42.73,Panamax,CFR
+2024-06-01,Sao Francisco do Sul,Vietnam,14876,41.54,Kamsarmax,FOB
+2024-06-01,Sao Francisco do Sul,Turkey,12595,33.64,Handymax,CIF
+2024-06-01,Sao Francisco do Sul,Mexico,38785,41.83,Panamax,CFR
+2024-06-01,Barcarena,China,92252,35.52,Panamax,CFR
+2024-06-01,Barcarena,Netherlands,47925,32.13,Panamax,CIF
+2024-06-01,Barcarena,Spain,58884,31.12,Panamax,FOB
+2024-06-01,Barcarena,Thailand,42912,33.44,Supramax,CIF
+2024-06-01,Barcarena,Vietnam,34674,36.12,Kamsarmax,FOB
+2024-06-01,Barcarena,Egypt,44789,26.07,Handymax,CFR
+2024-06-01,Barcarena,Mexico,8240,31.46,Handymax,CIF
+2024-07-01,Santos,China,206076,50.96,Panamax,FOB
+2024-07-01,Santos,Netherlands,62297,29.46,Supramax,CIF
+2024-07-01,Santos,Spain,51669,34.2,Supramax,CFR
+2024-07-01,Santos,Thailand,84552,35.63,Handymax,CFR
+2024-07-01,Santos,Vietnam,25616,38.8,Kamsarmax,CIF
+2024-07-01,Santos,Egypt,63295,28.98,Panamax,FOB
+2024-07-01,Santos,Mexico,42895,39.22,Handymax,CIF
+2024-07-01,Paranagua,Netherlands,48057,30.84,Kamsarmax,FOB
+2024-07-01,Paranagua,Spain,37154,36.51,Panamax,FOB
+2024-07-01,Paranagua,Thailand,31283,39.45,Supramax,FOB
+2024-07-01,Paranagua,Vietnam,19604,41.34,Supramax,CFR
+2024-07-01,Paranagua,Turkey,41831,26.01,Kamsarmax,FOB
+2024-07-01,Paranagua,Egypt,32484,33.0,Panamax,CIF
+2024-07-01,Paranagua,Mexico,13539,40.05,Panamax,CFR
+2024-07-01,Rio Grande,Netherlands,75739,30.5,Panamax,FOB
+2024-07-01,Rio Grande,Spain,20414,30.25,Supramax,FOB
+2024-07-01,Rio Grande,Thailand,24175,38.17,Kamsarmax,CFR
+2024-07-01,Rio Grande,Vietnam,54567,43.68,Supramax,CFR
+2024-07-01,Rio Grande,Turkey,22793,36.8,Handymax,CIF
+2024-07-01,Rio Grande,Egypt,36153,29.81,Panamax,CFR
+2024-07-01,Rio Grande,Mexico,43233,37.26,Handymax,CIF
+2024-07-01,Itaqui,China,46189,49.54,Supramax,CFR
+2024-07-01,Itaqui,Netherlands,57362,31.91,Handymax,CFR
+2024-07-01,Itaqui,Spain,52712,28.22,Kamsarmax,CFR
+2024-07-01,Itaqui,Thailand,15896,32.94,Panamax,FOB
+2024-07-01,Itaqui,Vietnam,40285,42.11,Kamsarmax,CIF
+2024-07-01,Itaqui,Egypt,53683,26.19,Kamsarmax,FOB
+2024-07-01,Itaqui,Mexico,33855,34.22,Handymax,CIF
+2024-07-01,Sao Francisco do Sul,China,47075,37.0,Panamax,CFR
+2024-07-01,Sao Francisco do Sul,Netherlands,38228,27.8,Kamsarmax,CFR
+2024-07-01,Sao Francisco do Sul,Spain,23052,29.04,Handymax,FOB
+2024-07-01,Sao Francisco do Sul,Thailand,32350,41.43,Panamax,FOB
+2024-07-01,Sao Francisco do Sul,Turkey,11354,28.28,Kamsarmax,CIF
+2024-07-01,Sao Francisco do Sul,Egypt,13801,29.39,Panamax,CFR
+2024-07-01,Barcarena,China,53281,45.61,Handymax,CIF
+2024-07-01,Barcarena,Netherlands,39952,31.2,Panamax,FOB
+2024-07-01,Barcarena,Spain,23734,33.71,Handymax,CFR
+2024-07-01,Barcarena,Vietnam,20900,31.98,Handymax,CFR
+2024-07-01,Barcarena,Turkey,32458,28.58,Handymax,CFR
+2024-07-01,Barcarena,Egypt,38656,34.61,Handymax,CIF
+2024-08-01,Santos,China,147291,45.24,Panamax,FOB
+2024-08-01,Santos,Netherlands,70243,35.45,Supramax,CIF
+2024-08-01,Santos,Spain,14203,37.22,Supramax,FOB
+2024-08-01,Santos,Thailand,72185,32.72,Supramax,CFR
+2024-08-01,Santos,Vietnam,21729,36.37,Handymax,FOB
+2024-08-01,Santos,Turkey,22974,34.78,Kamsarmax,CFR
+2024-08-01,Santos,Egypt,13205,25.64,Handymax,CIF
+2024-08-01,Santos,Mexico,48954,42.32,Handymax,CIF
+2024-08-01,Paranagua,China,35782,38.48,Handymax,CIF
+2024-08-01,Paranagua,Netherlands,24337,34.23,Supramax,CFR
+2024-08-01,Paranagua,Thailand,70368,43.51,Supramax,CFR
+2024-08-01,Paranagua,Vietnam,56933,39.0,Kamsarmax,CIF
+2024-08-01,Paranagua,Turkey,38215,33.02,Handymax,CIF
+2024-08-01,Paranagua,Egypt,45669,33.59,Supramax,CIF
+2024-08-01,Rio Grande,China,81251,48.24,Panamax,CIF
+2024-08-01,Rio Grande,Netherlands,48021,37.58,Handymax,CFR
+2024-08-01,Rio Grande,Spain,15432,37.52,Supramax,CIF
+2024-08-01,Rio Grande,Thailand,30835,33.25,Panamax,CIF
+2024-08-01,Rio Grande,Vietnam,31030,35.41,Panamax,FOB
+2024-08-01,Rio Grande,Turkey,39054,31.97,Handymax,FOB
+2024-08-01,Rio Grande,Egypt,29500,31.31,Handymax,FOB
+2024-08-01,Rio Grande,Mexico,38585,36.57,Panamax,CIF
+2024-08-01,Itaqui,China,70058,49.97,Handymax,FOB
+2024-08-01,Itaqui,Netherlands,37463,30.8,Supramax,CFR
+2024-08-01,Itaqui,Spain,14471,37.42,Handymax,CIF
+2024-08-01,Itaqui,Thailand,26492,30.75,Kamsarmax,CIF
+2024-08-01,Itaqui,Turkey,10776,26.4,Panamax,CIF
+2024-08-01,Itaqui,Egypt,29617,30.07,Panamax,FOB
+2024-08-01,Itaqui,Mexico,20707,30.54,Supramax,CFR
+2024-08-01,Sao Francisco do Sul,China,115223,47.0,Kamsarmax,FOB
+2024-08-01,Sao Francisco do Sul,Netherlands,33097,26.34,Kamsarmax,CFR
+2024-08-01,Sao Francisco do Sul,Spain,15430,33.38,Kamsarmax,CIF
+2024-08-01,Sao Francisco do Sul,Thailand,7381,38.27,Handymax,CFR
+2024-08-01,Sao Francisco do Sul,Vietnam,11958,30.54,Handymax,FOB
+2024-08-01,Sao Francisco do Sul,Egypt,10922,27.93,Panamax,FOB
+2024-08-01,Sao Francisco do Sul,Mexico,21498,40.74,Supramax,CIF
+2024-08-01,Barcarena,China,34082,49.06,Panamax,CFR
+2024-08-01,Barcarena,Netherlands,17486,28.31,Panamax,CIF
+2024-08-01,Barcarena,Spain,20077,28.76,Panamax,FOB
+2024-08-01,Barcarena,Thailand,27472,41.55,Panamax,FOB
+2024-08-01,Barcarena,Vietnam,31789,35.22,Kamsarmax,FOB
+2024-08-01,Barcarena,Turkey,17549,28.37,Supramax,CFR
+2024-08-01,Barcarena,Mexico,7235,39.48,Kamsarmax,FOB
+2024-09-01,Santos,China,125136,40.15,Supramax,CFR
+2024-09-01,Santos,Netherlands,42372,29.32,Handymax,FOB
+2024-09-01,Santos,Spain,51643,32.77,Handymax,CFR
+2024-09-01,Santos,Thailand,79366,33.06,Kamsarmax,FOB
+2024-09-01,Santos,Turkey,45139,28.24,Handymax,CFR
+2024-09-01,Santos,Egypt,36823,30.98,Handymax,CFR
+2024-09-01,Santos,Mexico,14543,41.61,Panamax,CIF
+2024-09-01,Paranagua,China,83082,38.39,Supramax,FOB
+2024-09-01,Paranagua,Netherlands,45142,35.88,Kamsarmax,FOB
+2024-09-01,Paranagua,Spain,54468,29.48,Supramax,CIF
+2024-09-01,Paranagua,Thailand,17042,34.62,Handymax,CIF
+2024-09-01,Paranagua,Turkey,26913,31.58,Handymax,CIF
+2024-09-01,Paranagua,Egypt,18080,26.79,Kamsarmax,CIF
+2024-09-01,Paranagua,Mexico,44195,40.98,Supramax,CIF
+2024-09-01,Rio Grande,China,66120,46.5,Panamax,CIF
+2024-09-01,Rio Grande,Netherlands,31180,30.7,Handymax,FOB
+2024-09-01,Rio Grande,Vietnam,27328,40.76,Kamsarmax,CIF
+2024-09-01,Rio Grande,Turkey,17596,37.02,Panamax,FOB
+2024-09-01,Rio Grande,Egypt,8550,31.28,Handymax,CIF
+2024-09-01,Itaqui,Thailand,20075,35.28,Supramax,CIF
+2024-09-01,Itaqui,Vietnam,28007,33.61,Panamax,CIF
+2024-09-01,Itaqui,Turkey,27745,36.17,Supramax,CFR
+2024-09-01,Itaqui,Mexico,17912,31.51,Supramax,CIF
+2024-09-01,Sao Francisco do Sul,China,102442,47.99,Panamax,CIF
+2024-09-01,Sao Francisco do Sul,Netherlands,31868,34.32,Panamax,CFR
+2024-09-01,Sao Francisco do Sul,Thailand,5414,42.62,Supramax,FOB
+2024-09-01,Sao Francisco do Sul,Vietnam,23415,41.3,Handymax,CFR
+2024-09-01,Sao Francisco do Sul,Turkey,12602,28.64,Panamax,CIF
+2024-09-01,Sao Francisco do Sul,Egypt,13696,26.6,Handymax,CIF
+2024-09-01,Sao Francisco do Sul,Mexico,9362,30.18,Supramax,FOB
+2024-09-01,Barcarena,China,29127,49.23,Supramax,FOB
+2024-09-01,Barcarena,Netherlands,23970,33.12,Panamax,CIF
+2024-09-01,Barcarena,Spain,15905,28.1,Kamsarmax,CIF
+2024-09-01,Barcarena,Thailand,13075,43.8,Supramax,CFR
+2024-09-01,Barcarena,Vietnam,20538,35.59,Supramax,CIF
+2024-09-01,Barcarena,Turkey,6191,30.01,Kamsarmax,FOB
+2024-09-01,Barcarena,Egypt,6517,34.16,Panamax,CFR
+2024-09-01,Barcarena,Mexico,11848,31.77,Supramax,CFR
+2024-10-01,Santos,China,90168,36.46,Handymax,CFR
+2024-10-01,Santos,Spain,42897,27.49,Panamax,CIF
+2024-10-01,Santos,Thailand,45103,40.16,Kamsarmax,CIF
+2024-10-01,Santos,Turkey,19242,31.38,Panamax,CFR
+2024-10-01,Paranagua,China,85712,50.31,Handymax,FOB
+2024-10-01,Paranagua,Netherlands,22186,32.75,Kamsarmax,FOB
+2024-10-01,Paranagua,Spain,51398,30.48,Supramax,FOB
+2024-10-01,Paranagua,Thailand,27781,40.72,Supramax,FOB
+2024-10-01,Paranagua,Turkey,13639,26.07,Supramax,CIF
+2024-10-01,Paranagua,Mexico,30313,37.27,Panamax,FOB
+2024-10-01,Rio Grande,Netherlands,39528,31.59,Supramax,CIF
+2024-10-01,Rio Grande,Spain,16141,32.18,Supramax,CIF
+2024-10-01,Rio Grande,Vietnam,29879,34.92,Panamax,FOB
+2024-10-01,Rio Grande,Turkey,30829,32.18,Supramax,CFR
+2024-10-01,Rio Grande,Egypt,18451,29.65,Panamax,CIF
+2024-10-01,Rio Grande,Mexico,16615,40.93,Kamsarmax,FOB
+2024-10-01,Itaqui,China,22240,50.51,Panamax,CIF
+2024-10-01,Itaqui,Netherlands,24009,32.6,Panamax,FOB
+2024-10-01,Itaqui,Spain,18258,28.1,Supramax,CIF
+2024-10-01,Itaqui,Thailand,21845,39.21,Kamsarmax,CFR
+2024-10-01,Itaqui,Vietnam,12398,38.47,Supramax,CIF
+2024-10-01,Itaqui,Turkey,16063,37.68,Kamsarmax,CFR
+2024-10-01,Itaqui,Egypt,21872,30.43,Supramax,FOB
+2024-10-01,Itaqui,Mexico,28828,30.86,Handymax,CFR
+2024-10-01,Sao Francisco do Sul,China,65293,44.49,Kamsarmax,CFR
+2024-10-01,Sao Francisco do Sul,Netherlands,14540,35.77,Supramax,FOB
+2024-10-01,Sao Francisco do Sul,Thailand,16494,42.73,Kamsarmax,CFR
+2024-10-01,Sao Francisco do Sul,Vietnam,17565,40.31,Handymax,FOB
+2024-10-01,Sao Francisco do Sul,Turkey,10443,27.5,Kamsarmax,CIF
+2024-10-01,Sao Francisco do Sul,Egypt,3503,35.7,Handymax,CIF
+2024-10-01,Sao Francisco do Sul,Mexico,10806,39.77,Handymax,CFR
+2024-10-01,Barcarena,Netherlands,35126,28.76,Panamax,FOB
+2024-10-01,Barcarena,Spain,23727,37.25,Panamax,CIF
+2024-10-01,Barcarena,Thailand,6232,35.41,Panamax,CFR
+2024-10-01,Barcarena,Vietnam,12204,40.58,Handymax,CIF
+2024-10-01,Barcarena,Turkey,15524,31.55,Panamax,FOB
+2024-10-01,Barcarena,Egypt,31036,27.52,Panamax,FOB
+2024-10-01,Barcarena,Mexico,10703,33.94,Supramax,FOB
+2024-11-01,Santos,China,35519,39.84,Kamsarmax,FOB
+2024-11-01,Santos,Netherlands,24222,31.7,Supramax,CIF
+2024-11-01,Santos,Thailand,32374,30.66,Handymax,FOB
+2024-11-01,Santos,Turkey,27885,28.13,Handymax,CIF
+2024-11-01,Santos,Egypt,21248,36.52,Handymax,FOB
+2024-11-01,Santos,Mexico,21773,36.22,Handymax,CIF
+2024-11-01,Paranagua,China,25908,38.65,Kamsarmax,CIF
+2024-11-01,Paranagua,Netherlands,12086,28.91,Panamax,FOB
+2024-11-01,Paranagua,Spain,20982,36.46,Panamax,CFR
+2024-11-01,Paranagua,Vietnam,28916,36.34,Kamsarmax,CFR
+2024-11-01,Paranagua,Egypt,20962,35.81,Handymax,FOB
+2024-11-01,Paranagua,Mexico,24926,34.19,Handymax,FOB
+2024-11-01,Rio Grande,China,72226,35.19,Panamax,CFR
+2024-11-01,Rio Grande,Netherlands,8040,26.63,Panamax,CFR
+2024-11-01,Rio Grande,Spain,19504,26.84,Supramax,CIF
+2024-11-01,Rio Grande,Thailand,11595,32.86,Handymax,CFR
+2024-11-01,Rio Grande,Vietnam,27633,39.82,Supramax,CIF
+2024-11-01,Rio Grande,Turkey,21568,31.16,Kamsarmax,FOB
+2024-11-01,Itaqui,Netherlands,12235,34.05,Panamax,FOB
+2024-11-01,Itaqui,Spain,10950,33.35,Handymax,CFR
+2024-11-01,Itaqui,Thailand,25212,40.85,Kamsarmax,FOB
+2024-11-01,Itaqui,Vietnam,11303,36.56,Supramax,FOB
+2024-11-01,Itaqui,Egypt,11855,35.46,Kamsarmax,CIF
+2024-11-01,Sao Francisco do Sul,China,50770,51.0,Panamax,CFR
+2024-11-01,Sao Francisco do Sul,Netherlands,11302,31.19,Handymax,FOB
+2024-11-01,Sao Francisco do Sul,Vietnam,24154,33.38,Kamsarmax,CFR
+2024-11-01,Sao Francisco do Sul,Egypt,4340,26.25,Handymax,FOB
+2024-11-01,Sao Francisco do Sul,Mexico,12530,33.78,Panamax,CFR
+2024-11-01,Barcarena,China,45865,49.5,Supramax,FOB
+2024-11-01,Barcarena,Netherlands,22689,31.19,Handymax,CFR
+2024-11-01,Barcarena,Spain,6928,33.77,Supramax,FOB
+2024-11-01,Barcarena,Thailand,21375,34.45,Supramax,FOB
+2024-11-01,Barcarena,Vietnam,13263,40.74,Supramax,CFR
+2024-11-01,Barcarena,Turkey,12729,31.66,Supramax,FOB
+2024-11-01,Barcarena,Egypt,23535,36.56,Kamsarmax,FOB
+2024-11-01,Barcarena,Mexico,18079,30.37,Kamsarmax,FOB
+2024-12-01,Santos,China,66632,49.95,Handymax,CIF
+2024-12-01,Santos,Netherlands,33060,29.27,Supramax,CFR
+2024-12-01,Santos,Spain,36009,37.2,Handymax,CFR
+2024-12-01,Santos,Thailand,30042,33.91,Panamax,CFR
+2024-12-01,Santos,Vietnam,25101,32.12,Panamax,CFR
+2024-12-01,Santos,Turkey,22332,32.73,Panamax,FOB
+2024-12-01,Santos,Egypt,20876,26.21,Kamsarmax,CIF
+2024-12-01,Santos,Mexico,16390,31.19,Panamax,CFR
+2024-12-01,Paranagua,Netherlands,40928,36.52,Panamax,CFR
+2024-12-01,Paranagua,Spain,33761,26.21,Kamsarmax,CFR
+2024-12-01,Paranagua,Thailand,33966,40.31,Supramax,CFR
+2024-12-01,Paranagua,Vietnam,7338,37.25,Panamax,CFR
+2024-12-01,Paranagua,Egypt,39044,35.48,Handymax,CIF
+2024-12-01,Paranagua,Mexico,23151,36.07,Handymax,CIF
+2024-12-01,Rio Grande,China,51541,41.98,Handymax,FOB
+2024-12-01,Rio Grande,Netherlands,36985,26.34,Panamax,CFR
+2024-12-01,Rio Grande,Spain,15975,32.81,Supramax,CFR
+2024-12-01,Rio Grande,Vietnam,21946,41.05,Handymax,FOB
+2024-12-01,Rio Grande,Turkey,16185,30.13,Kamsarmax,CIF
+2024-12-01,Rio Grande,Egypt,10744,35.24,Kamsarmax,CIF
+2024-12-01,Rio Grande,Mexico,19905,37.86,Handymax,FOB
+2024-12-01,Itaqui,China,57530,46.91,Supramax,CFR
+2024-12-01,Itaqui,Spain,24082,33.06,Kamsarmax,CFR
+2024-12-01,Itaqui,Vietnam,17226,36.66,Panamax,CIF
+2024-12-01,Itaqui,Turkey,11160,35.38,Panamax,FOB
+2024-12-01,Itaqui,Egypt,10883,33.66,Panamax,CFR
+2024-12-01,Itaqui,Mexico,11152,34.37,Kamsarmax,FOB
+2024-12-01,Sao Francisco do Sul,China,39035,48.72,Panamax,FOB
+2024-12-01,Sao Francisco do Sul,Netherlands,11708,27.68,Supramax,CIF
+2024-12-01,Sao Francisco do Sul,Vietnam,3235,29.87,Kamsarmax,CFR
+2024-12-01,Sao Francisco do Sul,Egypt,3915,33.24,Panamax,CFR
+2024-12-01,Barcarena,China,79848,45.79,Panamax,FOB
+2024-12-01,Barcarena,Spain,16214,32.72,Supramax,FOB
+2024-12-01,Barcarena,Thailand,12594,30.92,Supramax,CIF
+2024-12-01,Barcarena,Vietnam,5954,36.79,Panamax,FOB
+2024-12-01,Barcarena,Turkey,24307,36.9,Kamsarmax,FOB
+2024-12-01,Barcarena,Egypt,4785,31.58,Supramax,FOB
+2024-12-01,Barcarena,Mexico,13857,33.76,Handymax,CFR
+2025-01-01,Santos,Netherlands,21666,31.56,Kamsarmax,CIF
+2025-01-01,Santos,Spain,13486,29.87,Kamsarmax,CFR
+2025-01-01,Santos,Thailand,28613,41.89,Supramax,CFR
+2025-01-01,Santos,Turkey,14931,31.02,Kamsarmax,CFR
+2025-01-01,Santos,Mexico,20852,31.8,Panamax,CIF
+2025-01-01,Paranagua,China,45318,48.89,Handymax,CFR
+2025-01-01,Paranagua,Netherlands,35798,31.16,Kamsarmax,FOB
+2025-01-01,Paranagua,Spain,36357,30.16,Kamsarmax,CIF
+2025-01-01,Paranagua,Thailand,15987,33.3,Handymax,CIF
+2025-01-01,Paranagua,Vietnam,18809,31.43,Panamax,FOB
+2025-01-01,Paranagua,Turkey,17412,37.7,Supramax,CIF
+2025-01-01,Paranagua,Mexico,29855,38.15,Kamsarmax,CFR
+2025-01-01,Rio Grande,Netherlands,33556,31.53,Kamsarmax,CIF
+2025-01-01,Rio Grande,Spain,5787,30.09,Kamsarmax,CFR
+2025-01-01,Rio Grande,Thailand,7338,39.76,Kamsarmax,CIF
+2025-01-01,Rio Grande,Vietnam,23753,39.37,Kamsarmax,FOB
+2025-01-01,Rio Grande,Turkey,18863,32.96,Kamsarmax,FOB
+2025-01-01,Rio Grande,Egypt,14175,26.66,Handymax,CFR
+2025-01-01,Rio Grande,Mexico,20476,35.39,Panamax,CFR
+2025-01-01,Itaqui,China,16762,39.5,Kamsarmax,FOB
+2025-01-01,Itaqui,Netherlands,23681,33.9,Supramax,CIF
+2025-01-01,Itaqui,Spain,27074,25.73,Supramax,FOB
+2025-01-01,Itaqui,Thailand,15738,35.13,Kamsarmax,CFR
+2025-01-01,Itaqui,Vietnam,22778,42.81,Panamax,FOB
+2025-01-01,Itaqui,Turkey,21122,36.92,Handymax,CFR
+2025-01-01,Itaqui,Egypt,15395,33.53,Panamax,CIF
+2025-01-01,Itaqui,Mexico,18217,35.95,Panamax,CFR
+2025-01-01,Sao Francisco do Sul,China,47243,38.35,Handymax,FOB
+2025-01-01,Sao Francisco do Sul,Netherlands,20183,35.93,Handymax,FOB
+2025-01-01,Sao Francisco do Sul,Spain,11859,32.28,Supramax,CFR
+2025-01-01,Sao Francisco do Sul,Vietnam,4880,38.41,Supramax,CFR
+2025-01-01,Sao Francisco do Sul,Turkey,9702,30.84,Supramax,FOB
+2025-01-01,Sao Francisco do Sul,Egypt,7787,32.4,Panamax,CIF
+2025-01-01,Barcarena,China,49031,45.04,Panamax,FOB
+2025-01-01,Barcarena,Netherlands,11526,33.49,Kamsarmax,CIF
+2025-01-01,Barcarena,Spain,19349,32.47,Supramax,CFR
+2025-01-01,Barcarena,Mexico,16693,30.85,Panamax,CIF
+2025-02-01,Santos,China,70874,49.84,Supramax,CFR
+2025-02-01,Santos,Spain,48432,37.33,Supramax,FOB
+2025-02-01,Santos,Vietnam,22826,34.81,Panamax,CFR
+2025-02-01,Santos,Turkey,21108,25.97,Kamsarmax,FOB
+2025-02-01,Santos,Egypt,49398,34.29,Kamsarmax,CFR
+2025-02-01,Santos,Mexico,41868,31.73,Supramax,CFR
+2025-02-01,Paranagua,China,54213,35.53,Panamax,CFR
+2025-02-01,Paranagua,Netherlands,25605,34.03,Supramax,CIF
+2025-02-01,Paranagua,Spain,53568,31.18,Handymax,CIF
+2025-02-01,Paranagua,Vietnam,34266,33.25,Supramax,FOB
+2025-02-01,Paranagua,Turkey,27330,26.63,Panamax,FOB
+2025-02-01,Paranagua,Egypt,55818,29.48,Panamax,CIF
+2025-02-01,Paranagua,Mexico,42055,40.27,Handymax,CIF
+2025-02-01,Rio Grande,China,28982,47.82,Panamax,CIF
+2025-02-01,Rio Grande,Netherlands,23982,26.9,Panamax,CFR
+2025-02-01,Rio Grande,Spain,25235,33.3,Handymax,CFR
+2025-02-01,Rio Grande,Thailand,12507,43.08,Supramax,CFR
+2025-02-01,Rio Grande,Vietnam,35565,34.45,Kamsarmax,CFR
+2025-02-01,Rio Grande,Turkey,26253,34.26,Kamsarmax,CFR
+2025-02-01,Rio Grande,Egypt,24217,28.05,Supramax,FOB
+2025-02-01,Itaqui,China,53107,40.67,Handymax,FOB
+2025-02-01,Itaqui,Netherlands,43417,26.64,Handymax,FOB
+2025-02-01,Itaqui,Spain,20514,37.2,Kamsarmax,FOB
+2025-02-01,Itaqui,Thailand,30519,43.08,Supramax,CIF
+2025-02-01,Itaqui,Vietnam,23032,40.83,Handymax,FOB
+2025-02-01,Itaqui,Turkey,8626,28.06,Panamax,CIF
+2025-02-01,Itaqui,Egypt,11873,26.72,Kamsarmax,FOB
+2025-02-01,Sao Francisco do Sul,China,48691,36.73,Supramax,CFR
+2025-02-01,Sao Francisco do Sul,Netherlands,11590,34.66,Panamax,CIF
+2025-02-01,Sao Francisco do Sul,Spain,21991,37.17,Panamax,CFR
+2025-02-01,Sao Francisco do Sul,Thailand,19502,37.5,Kamsarmax,CIF
+2025-02-01,Sao Francisco do Sul,Vietnam,19387,36.41,Panamax,CIF
+2025-02-01,Sao Francisco do Sul,Turkey,14173,29.27,Kamsarmax,FOB
+2025-02-01,Sao Francisco do Sul,Mexico,3582,37.5,Panamax,CIF
+2025-02-01,Barcarena,China,56975,38.16,Supramax,CIF
+2025-02-01,Barcarena,Netherlands,23370,27.63,Kamsarmax,FOB
+2025-02-01,Barcarena,Spain,33099,34.46,Kamsarmax,CIF
+2025-02-01,Barcarena,Thailand,30435,37.12,Handymax,FOB
+2025-02-01,Barcarena,Turkey,8112,37.16,Kamsarmax,FOB
+2025-02-01,Barcarena,Egypt,27909,26.15,Supramax,CFR
+2025-02-01,Barcarena,Mexico,12902,33.57,Kamsarmax,CFR
+2025-03-01,Santos,Netherlands,78256,32.5,Kamsarmax,FOB
+2025-03-01,Santos,Spain,49097,32.08,Panamax,CFR
+2025-03-01,Santos,Thailand,22014,42.36,Panamax,FOB
+2025-03-01,Santos,Vietnam,51869,34.15,Handymax,CFR
+2025-03-01,Santos,Turkey,41314,27.57,Panamax,FOB
+2025-03-01,Santos,Egypt,63892,37.81,Handymax,CIF
+2025-03-01,Santos,Mexico,29516,29.66,Handymax,FOB
+2025-03-01,Paranagua,China,114590,35.75,Handymax,FOB
+2025-03-01,Paranagua,Netherlands,44014,36.11,Supramax,FOB
+2025-03-01,Paranagua,Spain,73079,26.28,Kamsarmax,CFR
+2025-03-01,Paranagua,Vietnam,51467,34.36,Kamsarmax,FOB
+2025-03-01,Paranagua,Turkey,47429,31.07,Handymax,FOB
+2025-03-01,Paranagua,Egypt,41584,37.23,Supramax,CIF
+2025-03-01,Paranagua,Mexico,73988,40.91,Handymax,CFR
+2025-03-01,Rio Grande,Netherlands,28036,26.03,Handymax,FOB
+2025-03-01,Rio Grande,Spain,19264,30.08,Handymax,FOB
+2025-03-01,Rio Grande,Thailand,13982,41.26,Panamax,FOB
+2025-03-01,Rio Grande,Vietnam,72175,36.29,Kamsarmax,CFR
+2025-03-01,Rio Grande,Turkey,22416,36.28,Panamax,CIF
+2025-03-01,Rio Grande,Egypt,15152,31.45,Handymax,CIF
+2025-03-01,Rio Grande,Mexico,6600,32.86,Kamsarmax,CIF
+2025-03-01,Itaqui,Netherlands,46848,33.58,Panamax,FOB
+2025-03-01,Itaqui,Thailand,38553,43.28,Supramax,CFR
+2025-03-01,Itaqui,Vietnam,14220,29.53,Handymax,FOB
+2025-03-01,Itaqui,Turkey,32600,27.79,Handymax,CIF
+2025-03-01,Itaqui,Egypt,21358,25.58,Kamsarmax,CIF
+2025-03-01,Itaqui,Mexico,32057,35.15,Supramax,FOB
+2025-03-01,Sao Francisco do Sul,Netherlands,15346,26.56,Handymax,CFR
+2025-03-01,Sao Francisco do Sul,Spain,10481,27.36,Panamax,FOB
+2025-03-01,Sao Francisco do Sul,Thailand,42965,40.17,Panamax,CIF
+2025-03-01,Sao Francisco do Sul,Vietnam,31222,42.79,Supramax,CIF
+2025-03-01,Sao Francisco do Sul,Egypt,38142,35.57,Handymax,CFR
+2025-03-01,Sao Francisco do Sul,Mexico,22162,41.48,Panamax,FOB
+2025-03-01,Barcarena,China,44449,44.57,Handymax,FOB
+2025-03-01,Barcarena,Netherlands,15351,27.31,Panamax,FOB
+2025-03-01,Barcarena,Spain,9590,30.36,Supramax,FOB
+2025-03-01,Barcarena,Thailand,59871,31.81,Panamax,CFR
+2025-03-01,Barcarena,Vietnam,33203,40.47,Panamax,FOB
+2025-03-01,Barcarena,Turkey,28760,33.51,Supramax,CFR
+2025-03-01,Barcarena,Egypt,25854,34.47,Handymax,CFR
+2025-03-01,Barcarena,Mexico,17245,32.76,Supramax,CFR
+2025-04-01,Santos,China,287311,40.04,Handymax,CIF
+2025-04-01,Santos,Netherlands,96341,27.71,Panamax,CFR
+2025-04-01,Santos,Spain,61118,33.55,Handymax,CIF
+2025-04-01,Santos,Thailand,114262,42.59,Handymax,CFR
+2025-04-01,Santos,Vietnam,57796,38.5,Supramax,CFR
+2025-04-01,Santos,Turkey,72282,28.94,Kamsarmax,CFR
+2025-04-01,Santos,Egypt,58611,26.29,Handymax,CFR
+2025-04-01,Santos,Mexico,46349,37.27,Kamsarmax,CIF
+2025-04-01,Paranagua,Netherlands,93743,36.03,Kamsarmax,CFR
+2025-04-01,Paranagua,Spain,63821,32.6,Supramax,CFR
+2025-04-01,Paranagua,Turkey,35853,28.43,Panamax,CIF
+2025-04-01,Paranagua,Mexico,41873,34.33,Handymax,CFR
+2025-04-01,Rio Grande,China,148350,40.8,Handymax,CFR
+2025-04-01,Rio Grande,Netherlands,76668,34.16,Panamax,CFR
+2025-04-01,Rio Grande,Spain,28865,25.86,Panamax,CFR
+2025-04-01,Rio Grande,Thailand,88467,32.75,Supramax,CIF
+2025-04-01,Rio Grande,Vietnam,15642,32.42,Handymax,CIF
+2025-04-01,Rio Grande,Turkey,31177,35.24,Supramax,CIF
+2025-04-01,Rio Grande,Egypt,62813,30.79,Supramax,FOB
+2025-04-01,Rio Grande,Mexico,35558,34.59,Supramax,FOB
+2025-04-01,Itaqui,China,123076,42.02,Supramax,CFR
+2025-04-01,Itaqui,Netherlands,56944,31.89,Kamsarmax,FOB
+2025-04-01,Itaqui,Spain,40590,25.46,Handymax,CIF
+2025-04-01,Itaqui,Thailand,15016,30.6,Panamax,FOB
+2025-04-01,Itaqui,Vietnam,13699,30.78,Supramax,CIF
+2025-04-01,Itaqui,Turkey,33876,32.44,Panamax,CIF
+2025-04-01,Itaqui,Egypt,45216,36.9,Kamsarmax,CFR
+2025-04-01,Itaqui,Mexico,27549,37.96,Handymax,CFR
+2025-04-01,Sao Francisco do Sul,China,97664,46.76,Handymax,CIF
+2025-04-01,Sao Francisco do Sul,Netherlands,62742,27.77,Panamax,CFR
+2025-04-01,Sao Francisco do Sul,Spain,18734,26.65,Handymax,FOB
+2025-04-01,Sao Francisco do Sul,Thailand,13821,33.36,Kamsarmax,FOB
+2025-04-01,Sao Francisco do Sul,Vietnam,21104,31.81,Supramax,FOB
+2025-04-01,Sao Francisco do Sul,Turkey,36475,35.28,Handymax,CFR
+2025-04-01,Sao Francisco do Sul,Egypt,31755,30.16,Handymax,CIF
+2025-04-01,Sao Francisco do Sul,Mexico,43770,31.72,Panamax,FOB
+2025-04-01,Barcarena,China,118015,46.3,Handymax,CFR
+2025-04-01,Barcarena,Netherlands,66228,34.47,Handymax,CIF
+2025-04-01,Barcarena,Spain,31243,28.47,Supramax,CFR
+2025-04-01,Barcarena,Thailand,33700,40.36,Handymax,CIF
+2025-04-01,Barcarena,Vietnam,19258,37.33,Handymax,CIF
+2025-04-01,Barcarena,Turkey,26546,36.49,Handymax,FOB
+2025-04-01,Barcarena,Egypt,35727,27.13,Panamax,FOB
+2025-05-01,Santos,Spain,116153,37.17,Kamsarmax,CFR
+2025-05-01,Santos,Thailand,39716,38.63,Handymax,FOB
+2025-05-01,Santos,Vietnam,27996,32.59,Kamsarmax,CFR
+2025-05-01,Santos,Turkey,70255,36.73,Supramax,CIF
+2025-05-01,Santos,Mexico,31355,42.98,Kamsarmax,CIF
+2025-05-01,Paranagua,China,67639,37.29,Kamsarmax,FOB
+2025-05-01,Paranagua,Netherlands,65416,29.08,Handymax,CIF
+2025-05-01,Paranagua,Spain,37191,35.06,Kamsarmax,CIF
+2025-05-01,Paranagua,Thailand,112894,36.24,Handymax,FOB
+2025-05-01,Paranagua,Vietnam,90419,30.68,Supramax,CIF
+2025-05-01,Paranagua,Turkey,39438,28.86,Panamax,CIF
+2025-05-01,Paranagua,Egypt,80643,36.57,Panamax,FOB
+2025-05-01,Paranagua,Mexico,53285,42.78,Panamax,CIF
+2025-05-01,Rio Grande,China,244550,48.73,Supramax,CFR
+2025-05-01,Rio Grande,Netherlands,59168,31.34,Supramax,FOB
+2025-05-01,Rio Grande,Spain,43090,36.85,Supramax,FOB
+2025-05-01,Rio Grande,Vietnam,17361,39.14,Panamax,CIF
+2025-05-01,Rio Grande,Turkey,23938,26.3,Kamsarmax,CFR
+2025-05-01,Rio Grande,Egypt,64037,29.38,Panamax,CIF
+2025-05-01,Rio Grande,Mexico,47727,42.02,Panamax,FOB
+2025-05-01,Itaqui,China,233651,44.28,Kamsarmax,CFR
+2025-05-01,Itaqui,Netherlands,31008,25.58,Supramax,FOB
+2025-05-01,Itaqui,Spain,26411,26.44,Supramax,CFR
+2025-05-01,Itaqui,Thailand,18836,37.17,Handymax,FOB
+2025-05-01,Itaqui,Vietnam,46113,41.58,Kamsarmax,FOB
+2025-05-01,Itaqui,Turkey,34984,30.66,Supramax,CIF
+2025-05-01,Itaqui,Egypt,22174,31.48,Supramax,FOB
+2025-05-01,Sao Francisco do Sul,China,43689,43.46,Handymax,CFR
+2025-05-01,Sao Francisco do Sul,Netherlands,15211,33.78,Supramax,CIF
+2025-05-01,Sao Francisco do Sul,Spain,29021,33.91,Supramax,CFR
+2025-05-01,Sao Francisco do Sul,Vietnam,14776,33.0,Panamax,FOB
+2025-05-01,Sao Francisco do Sul,Turkey,32516,28.14,Supramax,CFR
+2025-05-01,Sao Francisco do Sul,Egypt,51607,27.87,Kamsarmax,FOB
+2025-05-01,Sao Francisco do Sul,Mexico,31590,34.51,Panamax,CIF
+2025-05-01,Barcarena,Netherlands,16094,27.67,Handymax,CFR
+2025-05-01,Barcarena,Spain,34543,34.8,Handymax,FOB
+2025-05-01,Barcarena,Thailand,36265,39.02,Kamsarmax,FOB
+2025-05-01,Barcarena,Vietnam,27695,42.1,Panamax,FOB
+2025-05-01,Barcarena,Turkey,29367,29.84,Supramax,CIF
+2025-05-01,Barcarena,Egypt,50963,25.97,Panamax,CFR
+2025-05-01,Barcarena,Mexico,11959,32.47,Panamax,CFR
+2025-06-01,Santos,China,111418,41.02,Handymax,CFR
+2025-06-01,Santos,Netherlands,88737,32.51,Kamsarmax,FOB
+2025-06-01,Santos,Spain,80542,37.5,Kamsarmax,CFR
+2025-06-01,Santos,Thailand,113289,38.43,Handymax,CIF
+2025-06-01,Santos,Vietnam,50563,33.5,Handymax,FOB
+2025-06-01,Santos,Turkey,32440,26.9,Supramax,CIF
+2025-06-01,Santos,Egypt,105919,31.38,Panamax,CFR
+2025-06-01,Santos,Mexico,47462,29.89,Handymax,CFR
+2025-06-01,Paranagua,Netherlands,61708,27.04,Panamax,CFR
+2025-06-01,Paranagua,Thailand,80402,40.1,Handymax,FOB
+2025-06-01,Paranagua,Vietnam,72027,43.5,Kamsarmax,FOB
+2025-06-01,Paranagua,Turkey,63315,32.13,Handymax,FOB
+2025-06-01,Paranagua,Egypt,94655,33.95,Kamsarmax,CFR
+2025-06-01,Paranagua,Mexico,18602,40.44,Panamax,FOB
+2025-06-01,Rio Grande,China,120950,42.95,Kamsarmax,CFR
+2025-06-01,Rio Grande,Netherlands,61415,35.57,Handymax,CFR
+2025-06-01,Rio Grande,Spain,55735,32.74,Kamsarmax,CFR
+2025-06-01,Rio Grande,Thailand,76803,34.7,Handymax,CFR
+2025-06-01,Rio Grande,Turkey,48669,36.86,Panamax,CFR
+2025-06-01,Rio Grande,Egypt,62910,25.79,Supramax,FOB
+2025-06-01,Rio Grande,Mexico,40456,31.92,Supramax,CIF
+2025-06-01,Itaqui,China,159614,41.47,Handymax,CIF
+2025-06-01,Itaqui,Netherlands,39825,36.6,Supramax,FOB
+2025-06-01,Itaqui,Spain,13624,29.61,Panamax,CIF
+2025-06-01,Itaqui,Thailand,18099,41.31,Handymax,FOB
+2025-06-01,Itaqui,Turkey,56404,26.92,Handymax,CIF
+2025-06-01,Itaqui,Egypt,14450,35.4,Handymax,CFR
+2025-06-01,Itaqui,Mexico,15330,43.72,Supramax,CFR
+2025-06-01,Sao Francisco do Sul,Netherlands,17639,33.82,Kamsarmax,FOB
+2025-06-01,Sao Francisco do Sul,Spain,12108,31.5,Panamax,CIF
+2025-06-01,Sao Francisco do Sul,Thailand,43376,42.84,Handymax,CFR
+2025-06-01,Sao Francisco do Sul,Vietnam,26828,34.85,Panamax,FOB
+2025-06-01,Sao Francisco do Sul,Turkey,39815,33.32,Panamax,FOB
+2025-06-01,Sao Francisco do Sul,Mexico,18339,32.16,Panamax,CIF
+2025-06-01,Barcarena,Netherlands,47395,35.01,Supramax,FOB
+2025-06-01,Barcarena,Spain,13919,35.27,Panamax,CFR
+2025-06-01,Barcarena,Thailand,53621,43.34,Panamax,FOB
+2025-06-01,Barcarena,Vietnam,52232,38.17,Handymax,FOB
+2025-06-01,Barcarena,Turkey,39135,27.12,Handymax,CIF
+2025-06-01,Barcarena,Egypt,33843,27.16,Handymax,CIF
+2025-06-01,Barcarena,Mexico,21098,41.66,Handymax,CFR
+2025-07-01,Santos,China,269911,50.53,Supramax,CIF
+2025-07-01,Santos,Netherlands,90093,33.27,Supramax,CIF
+2025-07-01,Santos,Spain,45690,33.26,Handymax,CIF
+2025-07-01,Santos,Thailand,75680,42.44,Handymax,CIF
+2025-07-01,Santos,Vietnam,62992,31.17,Panamax,CIF
+2025-07-01,Santos,Turkey,59469,28.96,Panamax,FOB
+2025-07-01,Santos,Egypt,44147,31.93,Supramax,CIF
+2025-07-01,Santos,Mexico,41335,42.91,Supramax,FOB
+2025-07-01,Paranagua,China,159863,43.9,Kamsarmax,CIF
+2025-07-01,Paranagua,Netherlands,56472,26.52,Handymax,FOB
+2025-07-01,Paranagua,Spain,65632,35.76,Kamsarmax,FOB
+2025-07-01,Paranagua,Thailand,27039,34.72,Supramax,CIF
+2025-07-01,Paranagua,Vietnam,63404,42.25,Supramax,FOB
+2025-07-01,Paranagua,Turkey,38944,28.36,Panamax,FOB
+2025-07-01,Paranagua,Egypt,57258,36.88,Panamax,CIF
+2025-07-01,Paranagua,Mexico,18685,34.4,Supramax,FOB
+2025-07-01,Rio Grande,China,71348,48.39,Kamsarmax,CIF
+2025-07-01,Rio Grande,Netherlands,33082,29.47,Panamax,CIF
+2025-07-01,Rio Grande,Spain,18050,26.8,Handymax,FOB
+2025-07-01,Rio Grande,Thailand,71169,39.21,Handymax,FOB
+2025-07-01,Rio Grande,Vietnam,37721,42.55,Kamsarmax,FOB
+2025-07-01,Rio Grande,Turkey,34827,28.65,Handymax,CIF
+2025-07-01,Rio Grande,Egypt,17567,26.45,Kamsarmax,FOB
+2025-07-01,Itaqui,China,61107,37.8,Panamax,CFR
+2025-07-01,Itaqui,Netherlands,19455,27.24,Supramax,CFR
+2025-07-01,Itaqui,Spain,62177,33.54,Kamsarmax,CIF
+2025-07-01,Itaqui,Thailand,16444,32.23,Panamax,CIF
+2025-07-01,Itaqui,Vietnam,14017,37.34,Panamax,CFR
+2025-07-01,Itaqui,Turkey,28434,33.89,Handymax,CFR
+2025-07-01,Itaqui,Egypt,25691,27.04,Supramax,CIF
+2025-07-01,Itaqui,Mexico,9796,43.33,Supramax,FOB
+2025-07-01,Sao Francisco do Sul,Netherlands,18066,33.42,Kamsarmax,CIF
+2025-07-01,Sao Francisco do Sul,Spain,7140,34.79,Supramax,CIF
+2025-07-01,Sao Francisco do Sul,Thailand,18899,31.52,Supramax,FOB
+2025-07-01,Sao Francisco do Sul,Turkey,23124,37.05,Kamsarmax,CFR
+2025-07-01,Barcarena,China,60642,36.69,Panamax,CIF
+2025-07-01,Barcarena,Netherlands,62524,34.33,Handymax,CIF
+2025-07-01,Barcarena,Spain,21868,34.16,Handymax,CFR
+2025-07-01,Barcarena,Thailand,17133,30.28,Supramax,CFR
+2025-07-01,Barcarena,Egypt,15306,31.48,Panamax,FOB
+2025-07-01,Barcarena,Mexico,27579,39.95,Supramax,FOB
+2025-08-01,Santos,China,91496,49.23,Kamsarmax,CIF
+2025-08-01,Santos,Spain,25698,28.68,Handymax,FOB
+2025-08-01,Santos,Thailand,59730,31.68,Panamax,CFR
+2025-08-01,Santos,Turkey,16255,32.46,Kamsarmax,FOB
+2025-08-01,Santos,Mexico,43298,33.0,Supramax,CIF
+2025-08-01,Paranagua,Netherlands,56652,34.86,Kamsarmax,CIF
+2025-08-01,Paranagua,Spain,54565,32.6,Panamax,CIF
+2025-08-01,Paranagua,Thailand,43902,37.17,Handymax,CFR
+2025-08-01,Paranagua,Vietnam,45943,40.31,Handymax,FOB
+2025-08-01,Paranagua,Turkey,63493,35.58,Panamax,FOB
+2025-08-01,Paranagua,Egypt,13801,30.66,Supramax,FOB
+2025-08-01,Paranagua,Mexico,47735,29.72,Supramax,FOB
+2025-08-01,Rio Grande,Netherlands,48490,32.26,Kamsarmax,CFR
+2025-08-01,Rio Grande,Spain,34549,26.17,Panamax,CFR
+2025-08-01,Rio Grande,Thailand,56807,38.57,Handymax,CFR
+2025-08-01,Rio Grande,Vietnam,33729,43.33,Panamax,CIF
+2025-08-01,Rio Grande,Turkey,48735,28.05,Handymax,CFR
+2025-08-01,Rio Grande,Egypt,23918,29.58,Handymax,FOB
+2025-08-01,Rio Grande,Mexico,24422,36.42,Supramax,FOB
+2025-08-01,Itaqui,Netherlands,56531,28.52,Panamax,FOB
+2025-08-01,Itaqui,Thailand,49111,31.72,Handymax,CFR
+2025-08-01,Itaqui,Vietnam,15002,35.04,Kamsarmax,CIF
+2025-08-01,Itaqui,Turkey,37109,36.43,Kamsarmax,CFR
+2025-08-01,Itaqui,Egypt,10811,25.88,Panamax,CFR
+2025-08-01,Itaqui,Mexico,26312,43.88,Handymax,CIF
+2025-08-01,Sao Francisco do Sul,China,22531,38.53,Supramax,CFR
+2025-08-01,Sao Francisco do Sul,Thailand,21947,31.69,Handymax,CIF
+2025-08-01,Sao Francisco do Sul,Vietnam,7458,30.42,Panamax,CIF
+2025-08-01,Sao Francisco do Sul,Turkey,29377,31.91,Panamax,FOB
+2025-08-01,Sao Francisco do Sul,Egypt,28968,28.92,Kamsarmax,CFR
+2025-08-01,Sao Francisco do Sul,Mexico,4810,31.73,Panamax,CIF
+2025-08-01,Barcarena,China,53269,48.46,Panamax,FOB
+2025-08-01,Barcarena,Netherlands,47457,30.7,Panamax,FOB
+2025-08-01,Barcarena,Spain,12036,25.8,Kamsarmax,CFR
+2025-08-01,Barcarena,Turkey,20134,36.19,Supramax,CIF
+2025-08-01,Barcarena,Egypt,17792,36.75,Handymax,CFR
+2025-08-01,Barcarena,Mexico,21671,42.09,Supramax,CFR
+2025-09-01,Santos,China,153429,44.14,Panamax,CFR
+2025-09-01,Santos,Spain,28338,25.96,Panamax,FOB
+2025-09-01,Santos,Thailand,13579,42.76,Panamax,CFR
+2025-09-01,Santos,Vietnam,20717,31.02,Panamax,CIF
+2025-09-01,Santos,Turkey,31131,33.39,Supramax,CFR
+2025-09-01,Santos,Egypt,43860,36.07,Handymax,CFR
+2025-09-01,Santos,Mexico,43018,41.31,Panamax,FOB
+2025-09-01,Paranagua,China,117892,45.08,Supramax,FOB
+2025-09-01,Paranagua,Netherlands,44036,33.11,Supramax,CIF
+2025-09-01,Paranagua,Thailand,20669,41.17,Supramax,CIF
+2025-09-01,Paranagua,Vietnam,27883,32.0,Panamax,CIF
+2025-09-01,Paranagua,Turkey,10876,30.24,Handymax,CIF
+2025-09-01,Paranagua,Egypt,13128,31.57,Supramax,CFR
+2025-09-01,Paranagua,Mexico,32361,36.3,Handymax,FOB
+2025-09-01,Rio Grande,Netherlands,17926,28.5,Handymax,CIF
+2025-09-01,Rio Grande,Spain,37420,25.43,Supramax,FOB
+2025-09-01,Rio Grande,Thailand,31933,30.64,Handymax,CIF
+2025-09-01,Rio Grande,Turkey,8367,33.57,Handymax,FOB
+2025-09-01,Rio Grande,Egypt,6498,29.05,Kamsarmax,CIF
+2025-09-01,Rio Grande,Mexico,17346,31.92,Panamax,CFR
+2025-09-01,Itaqui,China,42244,48.2,Supramax,FOB
+2025-09-01,Itaqui,Netherlands,31179,26.17,Supramax,FOB
+2025-09-01,Itaqui,Vietnam,24133,43.18,Handymax,FOB
+2025-09-01,Itaqui,Turkey,18576,37.47,Panamax,CIF
+2025-09-01,Itaqui,Egypt,6434,36.03,Supramax,CIF
+2025-09-01,Itaqui,Mexico,22144,37.83,Handymax,CIF
+2025-09-01,Sao Francisco do Sul,Netherlands,27431,26.61,Panamax,CIF
+2025-09-01,Sao Francisco do Sul,Spain,13715,27.58,Supramax,FOB
+2025-09-01,Sao Francisco do Sul,Thailand,20450,35.97,Kamsarmax,FOB
+2025-09-01,Sao Francisco do Sul,Vietnam,10330,36.55,Panamax,CFR
+2025-09-01,Sao Francisco do Sul,Turkey,11285,32.92,Kamsarmax,CFR
+2025-09-01,Sao Francisco do Sul,Mexico,12829,41.24,Kamsarmax,CFR
+2025-09-01,Barcarena,Netherlands,42007,31.07,Panamax,FOB
+2025-09-01,Barcarena,Spain,32941,34.97,Handymax,CIF
+2025-09-01,Barcarena,Thailand,15990,36.47,Handymax,CIF
+2025-09-01,Barcarena,Vietnam,24208,37.65,Panamax,CFR
+2025-09-01,Barcarena,Turkey,9929,25.63,Kamsarmax,CFR
+2025-09-01,Barcarena,Egypt,5044,36.79,Handymax,CFR
+2025-09-01,Barcarena,Mexico,15198,34.29,Panamax,CFR
+2025-10-01,Santos,China,92556,47.48,Panamax,CIF
+2025-10-01,Santos,Netherlands,33015,36.52,Panamax,CFR
+2025-10-01,Santos,Spain,12337,34.43,Kamsarmax,CIF
+2025-10-01,Santos,Thailand,28978,42.83,Handymax,CIF
+2025-10-01,Santos,Turkey,42364,34.6,Handymax,CFR
+2025-10-01,Santos,Egypt,17521,35.19,Handymax,CIF
+2025-10-01,Santos,Mexico,27716,41.47,Supramax,CFR
+2025-10-01,Paranagua,Netherlands,25745,32.09,Panamax,CIF
+2025-10-01,Paranagua,Thailand,37505,33.6,Handymax,CFR
+2025-10-01,Paranagua,Vietnam,53826,31.25,Supramax,CIF
+2025-10-01,Paranagua,Turkey,18718,32.6,Supramax,FOB
+2025-10-01,Paranagua,Egypt,21847,32.51,Panamax,FOB
+2025-10-01,Paranagua,Mexico,22276,43.17,Handymax,CFR
+2025-10-01,Rio Grande,China,73884,49.23,Kamsarmax,FOB
+2025-10-01,Rio Grande,Netherlands,29950,27.98,Supramax,CFR
+2025-10-01,Rio Grande,Spain,7967,27.11,Kamsarmax,CIF
+2025-10-01,Rio Grande,Thailand,22353,31.76,Handymax,FOB
+2025-10-01,Rio Grande,Vietnam,21534,37.98,Handymax,CFR
+2025-10-01,Rio Grande,Turkey,9422,28.74,Supramax,CFR
+2025-10-01,Rio Grande,Egypt,20546,31.49,Kamsarmax,CFR
+2025-10-01,Itaqui,China,25095,46.16,Handymax,FOB
+2025-10-01,Itaqui,Netherlands,7402,32.21,Panamax,FOB
+2025-10-01,Itaqui,Spain,16523,25.52,Supramax,CIF
+2025-10-01,Itaqui,Vietnam,35701,41.77,Kamsarmax,FOB
+2025-10-01,Itaqui,Turkey,14530,35.2,Supramax,FOB
+2025-10-01,Itaqui,Egypt,15944,27.99,Kamsarmax,CIF
+2025-10-01,Itaqui,Mexico,14849,39.46,Supramax,FOB
+2025-10-01,Sao Francisco do Sul,China,73474,39.92,Kamsarmax,CFR
+2025-10-01,Sao Francisco do Sul,Netherlands,6184,35.47,Panamax,CFR
+2025-10-01,Sao Francisco do Sul,Spain,10385,33.17,Kamsarmax,CFR
+2025-10-01,Sao Francisco do Sul,Thailand,8199,30.14,Kamsarmax,CFR
+2025-10-01,Sao Francisco do Sul,Vietnam,25453,31.4,Handymax,CIF
+2025-10-01,Sao Francisco do Sul,Turkey,18759,29.37,Supramax,CIF
+2025-10-01,Sao Francisco do Sul,Egypt,15579,26.49,Panamax,FOB
+2025-10-01,Sao Francisco do Sul,Mexico,13424,36.5,Panamax,FOB
+2025-10-01,Barcarena,China,32266,42.86,Panamax,CIF
+2025-10-01,Barcarena,Spain,6374,27.73,Handymax,CFR
+2025-10-01,Barcarena,Thailand,13810,37.8,Panamax,FOB
+2025-10-01,Barcarena,Vietnam,24462,30.67,Handymax,FOB
+2025-10-01,Barcarena,Turkey,11271,34.94,Panamax,CIF
+2025-10-01,Barcarena,Egypt,10992,27.84,Handymax,CIF
+2025-10-01,Barcarena,Mexico,3312,30.81,Panamax,CIF
+2025-11-01,Santos,China,61046,41.88,Kamsarmax,FOB
+2025-11-01,Santos,Netherlands,23966,28.51,Kamsarmax,CIF
+2025-11-01,Santos,Spain,47155,26.77,Supramax,CIF
+2025-11-01,Santos,Vietnam,36163,34.73,Supramax,FOB
+2025-11-01,Santos,Turkey,38451,30.87,Kamsarmax,FOB
+2025-11-01,Santos,Egypt,21346,28.94,Panamax,FOB
+2025-11-01,Santos,Mexico,24031,34.23,Panamax,CFR
+2025-11-01,Paranagua,China,119343,44.61,Kamsarmax,CIF
+2025-11-01,Paranagua,Netherlands,24224,26.25,Supramax,CFR
+2025-11-01,Paranagua,Spain,12254,33.24,Handymax,CIF
+2025-11-01,Paranagua,Thailand,38123,43.55,Kamsarmax,FOB
+2025-11-01,Paranagua,Vietnam,18050,39.52,Supramax,CIF
+2025-11-01,Paranagua,Turkey,10174,33.5,Panamax,CFR
+2025-11-01,Paranagua,Egypt,34105,35.37,Kamsarmax,CFR
+2025-11-01,Paranagua,Mexico,23614,30.6,Handymax,CFR
+2025-11-01,Rio Grande,China,13021,38.34,Supramax,CIF
+2025-11-01,Rio Grande,Netherlands,18603,35.53,Kamsarmax,CFR
+2025-11-01,Rio Grande,Spain,23668,25.92,Supramax,FOB
+2025-11-01,Rio Grande,Thailand,8419,32.15,Kamsarmax,FOB
+2025-11-01,Rio Grande,Vietnam,11853,37.93,Panamax,CFR
+2025-11-01,Rio Grande,Turkey,10195,29.37,Supramax,CFR
+2025-11-01,Rio Grande,Egypt,8480,37.46,Kamsarmax,CIF
+2025-11-01,Rio Grande,Mexico,13858,36.2,Kamsarmax,FOB
+2025-11-01,Itaqui,China,54261,44.95,Panamax,CIF
+2025-11-01,Itaqui,Netherlands,21212,33.74,Kamsarmax,CIF
+2025-11-01,Itaqui,Thailand,21470,38.6,Panamax,CFR
+2025-11-01,Itaqui,Vietnam,20590,35.26,Handymax,CIF
+2025-11-01,Itaqui,Mexico,10473,30.74,Supramax,CIF
+2025-11-01,Sao Francisco do Sul,China,68968,49.98,Handymax,CFR
+2025-11-01,Sao Francisco do Sul,Netherlands,11834,30.81,Kamsarmax,CIF
+2025-11-01,Sao Francisco do Sul,Spain,22983,29.93,Kamsarmax,CIF
+2025-11-01,Sao Francisco do Sul,Thailand,22671,35.05,Kamsarmax,CFR
+2025-11-01,Sao Francisco do Sul,Vietnam,22206,39.85,Handymax,CFR
+2025-11-01,Sao Francisco do Sul,Turkey,15180,34.49,Panamax,CFR
+2025-11-01,Barcarena,China,60010,44.57,Supramax,CIF
+2025-11-01,Barcarena,Netherlands,7075,30.73,Kamsarmax,FOB
+2025-11-01,Barcarena,Thailand,25403,41.0,Panamax,CIF
+2025-11-01,Barcarena,Vietnam,25027,39.95,Panamax,FOB
+2025-11-01,Barcarena,Turkey,16595,34.3,Handymax,CFR
+2025-11-01,Barcarena,Egypt,27250,34.44,Supramax,CIF
+2025-11-01,Barcarena,Mexico,16354,34.35,Handymax,CFR
+2025-12-01,Santos,Spain,10791,32.28,Supramax,FOB
+2025-12-01,Santos,Thailand,33774,36.88,Handymax,CIF
+2025-12-01,Santos,Vietnam,35305,34.31,Handymax,CFR
+2025-12-01,Santos,Turkey,15600,26.43,Handymax,CFR
+2025-12-01,Santos,Egypt,12315,34.05,Panamax,CIF
+2025-12-01,Santos,Mexico,14463,36.09,Handymax,CIF
+2025-12-01,Paranagua,China,71287,37.94,Handymax,CFR
+2025-12-01,Paranagua,Netherlands,40428,30.6,Panamax,CFR
+2025-12-01,Paranagua,Spain,22369,34.35,Panamax,CFR
+2025-12-01,Paranagua,Thailand,41242,31.28,Panamax,CFR
+2025-12-01,Paranagua,Vietnam,28237,30.3,Kamsarmax,CIF
+2025-12-01,Paranagua,Turkey,17450,32.93,Kamsarmax,FOB
+2025-12-01,Paranagua,Mexico,9025,33.86,Handymax,CFR
+2025-12-01,Rio Grande,China,20588,41.34,Handymax,CFR
+2025-12-01,Rio Grande,Spain,23182,29.91,Panamax,CIF
+2025-12-01,Rio Grande,Thailand,15003,31.37,Panamax,FOB
+2025-12-01,Rio Grande,Vietnam,20761,42.6,Kamsarmax,FOB
+2025-12-01,Rio Grande,Turkey,9402,33.05,Handymax,CIF
+2025-12-01,Rio Grande,Egypt,10580,26.66,Kamsarmax,CIF
+2025-12-01,Rio Grande,Mexico,19068,34.11,Kamsarmax,CFR
+2025-12-01,Itaqui,China,10268,43.76,Kamsarmax,CIF
+2025-12-01,Itaqui,Netherlands,26014,34.52,Supramax,CIF
+2025-12-01,Itaqui,Thailand,21150,38.32,Handymax,CIF
+2025-12-01,Itaqui,Vietnam,10845,36.46,Kamsarmax,CIF
+2025-12-01,Itaqui,Turkey,15913,33.88,Kamsarmax,CFR
+2025-12-01,Itaqui,Egypt,17424,27.46,Supramax,CFR
+2025-12-01,Itaqui,Mexico,3350,36.36,Panamax,CFR
+2025-12-01,Sao Francisco do Sul,China,62550,49.04,Kamsarmax,CIF
+2025-12-01,Sao Francisco do Sul,Netherlands,4655,36.01,Panamax,FOB
+2025-12-01,Sao Francisco do Sul,Spain,11574,31.22,Supramax,CFR
+2025-12-01,Sao Francisco do Sul,Vietnam,5297,29.55,Panamax,FOB
+2025-12-01,Sao Francisco do Sul,Turkey,9011,27.98,Panamax,CFR
+2025-12-01,Sao Francisco do Sul,Mexico,5660,39.57,Handymax,CFR
+2025-12-01,Barcarena,China,71145,47.97,Panamax,CFR
+2025-12-01,Barcarena,Netherlands,17322,33.21,Panamax,CFR
+2025-12-01,Barcarena,Spain,15172,29.21,Supramax,FOB
+2025-12-01,Barcarena,Thailand,14824,35.92,Kamsarmax,FOB
+2025-12-01,Barcarena,Vietnam,14781,31.47,Handymax,CFR
+2025-12-01,Barcarena,Turkey,10461,26.08,Kamsarmax,CIF
+2025-12-01,Barcarena,Egypt,16375,29.69,Kamsarmax,CFR
+2025-12-01,Barcarena,Mexico,6394,35.45,Kamsarmax,CIF
