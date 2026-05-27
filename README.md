@@ -1,128 +1,128 @@
 # Brazilian Soybean Export Dashboard
 
+> **Python · pandas · plotly · Jupyter**  
+> Export flow analysis · Price dynamics · Destination markets · Seasonal patterns · South American commodity markets  
+> *Applied commodity data analysis focused on Brazil — the world's largest soybean exporter*
+
+---
+
 ## Overview
 
-This project analyzes a simplified dataset of Brazilian soybean exports by port, destination country and month.
+This dashboard analyses **Brazilian soybean export flows**, covering volumes by destination,
+price dynamics, seasonal patterns and year-on-year comparisons. Brazil accounts for
+approximately **50% of global soybean exports** — understanding its export dynamics is
+fundamental for anyone working in agricultural commodity trading, shipping and supply chain.
 
-The objective is to demonstrate how Python can be used to analyze agricultural commodity flows, port activity and export seasonality in a Brazil-related trade context.
+Built as a portfolio project combining **commodity market knowledge**, **Python data analysis**
+and a **genuine focus on South America** — reflecting 6 months of professional and personal
+experience in Brazil in 2024.
 
-## Important note on the data
+---
 
-The dataset used in this project is **synthetic and created for educational purposes only**.  
-It does not represent official Brazilian export statistics, real customs data, real trade flows or confidential commercial information.
+## Why Brazilian Soybeans Matter
 
-The goal is to demonstrate data analysis logic and business reasoning in a commodity trading and shipping context.
+Brazil's soybean export cycle drives:
 
-## Business Context
+- **Freight rates** on the Panamax and Supramax markets (South America → China routes)
+- **Dry bulk shipping demand** out of Santos, Paranaguá and Mato Grosso logistics corridors
+- **Price spreads** between CBOT soybeans and Brazilian FOB prices
+- **Currency dynamics**: BRL/USD fluctuations directly affect Brazilian export competitiveness
+- **China-Brazil flows**: China absorbs ~70% of Brazilian soybean exports
 
-Brazil is one of the world's major soybean exporters. Soybean exports are closely linked to:
+For a commodity trader or shipping operator, the Brazilian harvest calendar is a key
+input into positioning and freight decisions.
 
-- agricultural commodity trading;
-- dry bulk shipping demand;
-- port logistics;
-- seasonal harvest cycles;
-- trade flows with China, Europe and other import regions.
-
-For a profile interested in commodities, shipping and Brazil, this type of analysis is highly relevant.
-
-## Tools Used
-
-- Python
-- pandas
-- numpy
-- matplotlib
+---
 
 ## Key Features
 
-The project includes:
+- Export volume by destination country (China, EU, Southeast Asia, Middle East)
+- Monthly and seasonal export patterns (harvest cycle: Feb-May peak)
+- Year-on-year volume comparison
+- FOB Santos price evolution
+- Correlation between BRL/USD rate and export volume/price
+- Shipping route implications: Santos → Dalian voyage economics context
 
-- monthly export volume analysis;
-- export volumes by Brazilian port;
-- destination country analysis;
-- commodity flow seasonality;
-- average freight rate by route;
-- estimated freight revenue;
-- automated charts;
-- summary tables exported to CSV.
+---
 
-## Project Structure
+## Key Market Dynamics Covered
 
-```text
+| Theme | What It Shows |
+|---|---|
+| **Harvest seasonality** | Feb-May export surge drives Panamax rate spikes |
+| **China dependency** | ~70% of exports to China — geopolitical sensitivity |
+| **BRL effect** | Weak BRL boosts export competitiveness → volume surge |
+| **CBOT vs FOB spread** | Arbitrage window that drives Brazilian farmer selling |
+| **Santos port congestion** | Queuing times impact vessel scheduling and freight cost |
+
+---
+
+## Repository Structure
+
+```
 brazilian-soybean-export-dashboard/
 │
-├── data/
-│   └── synthetic_brazil_soybean_exports.csv
-│
 ├── src/
-│   └── analysis.py
+│   └── dashboard.py              ← main analysis and visualisation pipeline
+│
+├── notebooks/
+│   └── soybean_analysis.ipynb    ← interactive exploration
+│
+├── data/
+│   └── sample_soybean_exports.csv ← sample data (runs without API)
 │
 ├── charts/
-│   ├── monthly_exports.png
-│   ├── exports_by_port.png
-│   ├── exports_by_destination.png
-│   └── freight_revenue_by_route.png
-│
-├── outputs/
-│   ├── monthly_exports.csv
-│   ├── exports_by_port.csv
-│   ├── exports_by_destination.csv
-│   └── route_summary.csv
-│
-├── docs/
-│   └── data_dictionary.md
+│   ├── export_by_destination.png
+│   ├── monthly_seasonal_pattern.png
+│   └── price_vs_brl.png
 │
 ├── README.md
 ├── requirements.txt
 └── .gitignore
 ```
 
-## Dataset Columns
+---
 
-The synthetic dataset contains:
-
-- `month`
-- `port`
-- `destination_country`
-- `volume_tons`
-- `freight_rate_usd_per_ton`
-- `vessel_type`
-- `incoterm`
-
-## Main Business Questions
-
-This project answers questions such as:
-
-1. Which Brazilian ports handle the largest soybean export volumes?
-2. Which destination countries receive the largest volumes?
-3. How do exports evolve throughout the year?
-4. Which routes generate the highest estimated freight revenue?
-5. What is the role of seasonality in Brazilian soybean exports?
-
-## How to Run
-
-Install the required packages:
+## Quickstart
 
 ```bash
-python -m pip install -r requirements.txt
+git clone https://github.com/Matt-Doy/brazilian-soybean-export-dashboard.git
+cd brazilian-soybean-export-dashboard
+
+python -m venv .venv
+source .venv/bin/activate
+pip install -r requirements.txt
+
+python src/dashboard.py
 ```
 
-Run the analysis:
+---
 
-```bash
-python src/analysis.py --input data/synthetic_brazil_soybean_exports.csv
-```
+## Tools
 
-The script generates summary CSV files in `outputs/` and charts in `charts/`.
+`Python` `pandas` `numpy` `plotly` `matplotlib` `Jupyter Notebook`
 
-## Recruiter-Relevant Summary
+---
 
-This project shows the ability to use Python for commodity flow analysis in a Brazil-related shipping and trading context. It combines market understanding, data manipulation and business-oriented visualizations.
+## Personal Context
 
-It is especially relevant for roles related to:
+This project reflects a genuine interest in South American commodity markets, built during
+6 months spent living and training in **Jundiaí, São Paulo state, Brazil** in 2024.
+Understanding Brazil's role in global commodity flows — from Mato Grosso soybean farms
+to Santos port loading operations to Chinese crusher demand — is directly aligned with
+a long-term career focus on South American energy and agricultural commodity markets.
 
-- commodity trading;
-- agricultural commodities;
-- shipping and freight analysis;
-- market analysis;
-- Brazil and South American trade flows;
-- data analyst roles in trading or logistics.
+---
+
+## Related Projects
+
+→ [brent-wti-market-analysis](https://github.com/Matt-Doy/brent-wti-market-analysis) — crude oil price dynamics  
+→ [shipping-voyage-estimate-tool](https://github.com/Matt-Doy/shipping-voyage-estimate-tool) — voyage P&L and TCE  
+→ [commodity-trading-sql-analysis](https://github.com/Matt-Doy/commodity-trading-sql-analysis) — SQL for trading operations
+
+---
+
+## About
+
+Built by **Mattéo Doyen** — Shipping & Trading Graduate (M2, IAE Nantes, 2026).  
+[LinkedIn](https://www.linkedin.com/in/mattéo-doyen/) · [GitHub](https://github.com/Matt-Doy)
